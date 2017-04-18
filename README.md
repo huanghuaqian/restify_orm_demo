@@ -46,10 +46,10 @@ ORM
 		server.listen(3900, function() {
 		  console.log('%s listening at %s', server.name, server.url);
 		});
-3. 数据库![Alt text](./K7V}D8TQ57(OYRT3$@{0{}S.png)
+3. 数据库[!image](https://github.com/huanghuaqian/restify_orm_demo/tree/master/img/K7V}D8TQ57(OYRT3$@{0{}S.png)
 
 #####运行结果
-![Alt text](./3LIPTR5PJ@07$]GNY[6`9M.png)
+![image](./3LIPTR5PJ@07$]GNY[6`9M.png)
 
 #####总结
 一种新的思维方式：REST，通过url来设计系统的结构，每个url都代表一个资源，而整个系统就是由这些资源组成的。需注意对比其与MVC模式。REST把所有用户需求抽象为资源,MVC由数据，视图和控制 器构成，通过Event触发Controller来改变Model和View。
