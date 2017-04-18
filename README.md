@@ -48,7 +48,7 @@ ORM
 		});
 3. 数据库
 
-![image](https://github.com/huanghuaqian/restify_orm_demo/tree/master/img/K7V}D8TQ57(OYRT3$@{0{}S.png)
+![image](https://github.com/huanghuaqian/restify_orm_demo/blob/master/img/3LIPTR5PJ(%4007%24%5DGNY%5B6%609M.png)
 
 #####运行结果
 ![image](https://github.com/huanghuaqian/restify_orm_demo/blob/master/img/3LIPTR5PJ@07%24%5DGNY%5B6%609M.png)
